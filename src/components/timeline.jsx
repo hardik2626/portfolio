@@ -44,7 +44,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Primary and Higher Education <span>2000-2013</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <p>I have completed my post-graduation education with major subjects as Commerce with First class with Distinction. During my time at college, I have developed interest in solving complex problems of the fundamental maths which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
                       </div>
                     </div>
                   </article>
