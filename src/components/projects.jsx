@@ -77,7 +77,7 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-5.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="https://www.syscreations.ca/">SYS Creations</a></h3>
+											<h3><a href="https://www.syscreations.ca">SYS Creations</a></h3>
 											<span>Wordpress</span>
 											<p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
