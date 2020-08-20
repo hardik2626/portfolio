@@ -21,8 +21,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at Wama Software <span>2014-present</span></h2>
-                        <p>I was joined the Wama Software as a Software Developer-Intern in the PHP team. My major part of the work has been into the field of creating Core PHP and all types work into Web. I am also exploring the role of PHP Frameworks like Yii and ZEND Framewor.</p>
+                        <h2>Senior Wordpress Developer at Coruscate Solution<span>2018-Present</span></h2>
+                        <p>I have joined the Coruscate Solution as a Senior Wordpress Developer in the PHP team. My major part of the work has been into the field of creating Wordpress Themes from Scratch, Customise theme, customise Plugins and Solve all types of wordpress stuck and all types work into Web. I am also exploring the role of ReactJS.</p>
                       </div>
                     </div>
                   </article>
