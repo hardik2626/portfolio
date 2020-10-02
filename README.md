@@ -1,6 +1,6 @@
 # PORTFOLIO-APP 
 
-##To run this project follow these steps , 
+## To run this project follow these steps , 
   - clone the repo using `git clone`
   - navigate to folder `portfolio`
   - run `npm install` to instal node modules
